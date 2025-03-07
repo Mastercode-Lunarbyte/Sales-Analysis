@@ -1,0 +1,201 @@
+date,product,category,region,revenue,profit
+2023-06-09,Product B,Electronics,South,290,57.68
+2023-04-18,Product A,Electronics,East,421,52.76
+2023-05-21,Product A,Home & Kitchen,South,461,100.94
+2023-05-04,Product A,Home & Kitchen,East,280,70.05
+2023-11-17,Product D,Sports,North,94,21.79
+2023-02-12,Product D,Sports,West,261,30.15
+2023-02-03,Product D,Clothing,East,54,13.77
+2023-08-18,Product D,Sports,West,344,42.48
+2023-12-23,Product C,Clothing,West,75,21.62
+2023-03-06,Product A,Home & Kitchen,North,275,30.6
+2023-01-14,Product B,Electronics,East,404,115.48
+2023-04-26,Product A,Clothing,North,455,74.01
+2023-01-03,Product C,Clothing,East,243,65.61
+2023-04-10,Product D,Sports,West,74,8.82
+2023-03-18,Product B,Clothing,West,361,60.7
+2023-05-30,Product C,Home & Kitchen,East,201,43.36
+2023-04-19,Product D,Clothing,South,238,42.05
+2023-01-19,Product C,Clothing,West,391,110.71
+2023-02-15,Product C,Home & Kitchen,West,375,51.91
+2023-08-20,Product C,Clothing,West,59,10.43
+2023-04-07,Product C,Home & Kitchen,West,227,42.12
+2023-12-21,Product B,Clothing,North,429,90.19
+2023-01-07,Product C,Electronics,West,319,52.98
+2023-08-13,Product B,Home & Kitchen,North,171,21.89
+2023-04-01,Product D,Home & Kitchen,North,182,32.57
+2023-12-04,Product C,Home & Kitchen,East,268,45.26
+2023-03-19,Product D,Clothing,East,428,121.16
+2023-10-03,Product C,Clothing,West,64,9.66
+2023-04-18,Product D,Electronics,North,289,62.17
+2023-10-23,Product D,Home & Kitchen,West,379,40.57
+2023-12-10,Product A,Electronics,West,203,59.02
+2023-04-08,Product D,Home & Kitchen,East,104,14.29
+2023-12-20,Product B,Clothing,East,179,40.33
+2023-12-06,Product D,Sports,West,493,69.01
+2023-10-14,Product A,Electronics,South,112,20.67
+2023-06-27,Product D,Clothing,South,183,47.82
+2023-02-22,Product A,Sports,East,97,16.18
+2023-03-11,Product B,Sports,North,484,134.18
+2023-02-20,Product A,Home & Kitchen,North,196,52.97
+2023-02-08,Product D,Sports,East,261,60.95
+2023-07-04,Product D,Home & Kitchen,South,168,30.44
+2023-01-05,Product D,Home & Kitchen,South,324,39.71
+2023-11-12,Product B,Electronics,North,285,74.44
+2023-12-17,Product D,Electronics,East,468,100.17
+2023-06-25,Product B,Sports,West,187,37.12
+2023-09-03,Product C,Home & Kitchen,East,395,97.91
+2023-01-17,Product B,Sports,West,366,91.28
+2023-09-05,Product B,Home & Kitchen,West,60,16.43
+2023-10-13,Product A,Clothing,East,230,34.54
+2023-05-31,Product A,Electronics,East,120,33.88
+2023-01-21,Product A,Clothing,South,188,46.89
+2023-10-20,Product C,Electronics,East,232,65.78
+2023-04-22,Product A,Home & Kitchen,West,424,93.22
+2023-11-28,Product D,Home & Kitchen,East,237,50.44
+2023-08-21,Product C,Electronics,North,384,110.74
+2023-04-02,Product A,Electronics,North,172,49.52
+2023-01-09,Product C,Clothing,South,362,79.57
+2023-02-04,Product A,Sports,West,479,51.0
+2023-04-08,Product B,Clothing,West,312,65.45
+2023-07-24,Product C,Sports,West,309,54.97
+2023-08-09,Product C,Home & Kitchen,West,90,13.15
+2023-02-15,Product A,Home & Kitchen,North,399,109.03
+2023-04-11,Product D,Electronics,West,343,98.6
+2023-08-18,Product B,Home & Kitchen,South,282,74.27
+2023-09-14,Product A,Electronics,East,363,100.68
+2023-07-16,Product A,Clothing,East,369,75.68
+2023-08-10,Product A,Clothing,West,105,10.95
+2023-06-28,Product C,Electronics,East,348,74.08
+2023-02-09,Product C,Home & Kitchen,West,236,46.85
+2023-03-10,Product A,Home & Kitchen,South,441,83.98
+2023-01-06,Product B,Electronics,South,329,82.36
+2023-07-26,Product A,Electronics,North,339,97.42
+2023-03-09,Product B,Clothing,South,500,92.01
+2023-09-28,Product C,Sports,North,274,54.26
+2023-04-07,Product D,Electronics,South,475,81.11
+2023-07-05,Product D,Electronics,South,401,97.7
+2023-02-26,Product C,Electronics,West,432,125.29
+2023-12-17,Product D,Home & Kitchen,East,344,43.08
+2023-03-07,Product D,Sports,West,369,55.98
+2023-04-07,Product C,Home & Kitchen,East,280,31.88
+2023-03-06,Product A,Clothing,North,493,130.22
+2023-01-20,Product A,Electronics,West,150,27.16
+2023-09-23,Product D,Electronics,East,234,58.94
+2023-06-26,Product B,Sports,East,369,93.06
+2023-05-07,Product D,Electronics,West,455,78.77
+2023-01-05,Product C,Clothing,North,284,77.6
+2023-08-09,Product D,Home & Kitchen,South,295,86.48
+2023-07-18,Product C,Home & Kitchen,South,52,10.98
+2023-04-15,Product A,Clothing,North,258,29.45
+2023-07-07,Product B,Sports,East,371,103.7
+2023-05-25,Product A,Sports,North,235,59.28
+2023-05-16,Product D,Electronics,West,173,42.15
+2023-06-21,Product C,Home & Kitchen,South,187,19.26
+2023-07-04,Product B,Home & Kitchen,South,426,72.88
+2023-02-13,Product D,Electronics,North,439,101.37
+2023-10-28,Product A,Sports,South,226,47.89
+2023-04-23,Product A,Sports,South,65,8.81
+2023-06-15,Product B,Electronics,North,344,73.12
+2023-07-08,Product A,Sports,East,381,100.73
+2023-12-26,Product B,Electronics,South,215,41.42
+2023-08-08,Product B,Sports,East,336,88.91
+2023-05-19,Product D,Electronics,South,256,51.94
+2023-09-18,Product A,Electronics,North,411,108.08
+2023-04-03,Product A,Sports,East,268,49.82
+2023-03-06,Product B,Home & Kitchen,South,301,56.0
+2023-02-04,Product A,Electronics,South,191,50.93
+2023-01-26,Product B,Home & Kitchen,East,386,82.48
+2023-09-25,Product D,Sports,North,77,10.48
+2023-08-29,Product B,Electronics,West,263,55.67
+2023-04-18,Product D,Clothing,East,74,15.72
+2023-07-29,Product D,Sports,East,307,71.23
+2023-04-08,Product D,Home & Kitchen,South,174,19.43
+2023-07-27,Product A,Electronics,South,378,93.58
+2023-10-21,Product B,Clothing,North,394,58.3
+2023-10-07,Product C,Clothing,East,144,19.22
+2023-10-11,Product D,Clothing,East,90,17.44
+2023-05-05,Product C,Electronics,North,249,50.62
+2023-01-15,Product D,Electronics,East,130,38.35
+2023-10-03,Product C,Clothing,North,185,35.24
+2023-12-19,Product A,Home & Kitchen,North,196,48.0
+2023-03-31,Product B,Clothing,East,185,42.55
+2023-10-01,Product A,Clothing,North,51,11.56
+2023-09-22,Product C,Home & Kitchen,East,312,52.12
+2023-04-09,Product B,Sports,West,406,95.44
+2023-02-07,Product A,Electronics,East,83,23.73
+2023-09-20,Product C,Sports,West,308,76.82
+2023-04-11,Product D,Clothing,South,107,22.13
+2023-12-20,Product B,Electronics,East,206,33.68
+2023-02-27,Product C,Clothing,West,418,97.18
+2023-07-03,Product D,Electronics,East,346,73.64
+2023-03-05,Product D,Clothing,South,300,76.95
+2023-05-04,Product A,Sports,West,123,23.75
+2023-03-19,Product A,Electronics,East,227,36.41
+2023-07-20,Product B,Home & Kitchen,South,202,39.82
+2023-06-22,Product B,Home & Kitchen,North,368,73.48
+2023-04-01,Product B,Home & Kitchen,South,484,117.36
+2023-04-20,Product B,Home & Kitchen,West,184,27.39
+2023-03-06,Product B,Clothing,South,58,15.46
+2023-12-03,Product B,Clothing,South,57,14.81
+2023-08-06,Product D,Electronics,South,124,36.14
+2023-07-18,Product C,Home & Kitchen,West,278,71.18
+2023-11-09,Product A,Home & Kitchen,North,176,47.13
+2023-10-25,Product A,Sports,East,393,55.18
+2023-04-23,Product D,Home & Kitchen,South,335,46.91
+2023-05-27,Product B,Clothing,East,406,114.17
+2023-10-14,Product C,Electronics,North,487,140.3
+2023-12-29,Product D,Sports,South,227,41.41
+2023-05-04,Product A,Sports,West,464,91.08
+2023-11-17,Product C,Electronics,West,353,58.15
+2023-08-23,Product D,Electronics,South,213,31.42
+2023-09-07,Product C,Electronics,South,353,75.36
+2023-08-21,Product B,Electronics,East,358,101.39
+2023-01-15,Product A,Sports,East,270,61.7
+2023-04-16,Product A,Clothing,South,250,63.22
+2023-05-27,Product A,Clothing,South,416,59.63
+2023-10-05,Product B,Clothing,East,397,97.37
+2023-05-27,Product D,Electronics,North,333,45.92
+2023-11-09,Product B,Home & Kitchen,East,111,21.71
+2023-11-27,Product C,Sports,West,275,81.68
+2023-05-05,Product B,Home & Kitchen,North,196,45.29
+2023-07-17,Product C,Home & Kitchen,South,274,73.41
+2023-07-30,Product C,Home & Kitchen,West,242,48.69
+2023-07-17,Product A,Electronics,East,254,57.75
+2023-07-22,Product C,Electronics,South,405,49.5
+2023-11-08,Product C,Home & Kitchen,North,283,83.55
+2023-10-11,Product C,Electronics,North,114,15.03
+2023-08-04,Product D,Home & Kitchen,East,135,34.9
+2023-10-31,Product B,Clothing,East,307,80.25
+2023-01-13,Product A,Electronics,West,398,93.83
+2023-04-05,Product B,Clothing,South,272,76.92
+2023-07-30,Product D,Electronics,North,344,72.12
+2023-08-10,Product C,Clothing,North,100,27.2
+2023-08-01,Product C,Sports,West,84,14.99
+2023-05-21,Product C,Sports,East,291,63.38
+2023-08-23,Product C,Home & Kitchen,North,476,128.57
+2023-03-31,Product B,Home & Kitchen,South,269,60.24
+2023-08-01,Product C,Clothing,North,445,92.26
+2023-03-26,Product A,Electronics,East,385,45.16
+2023-04-14,Product B,Home & Kitchen,North,350,47.63
+2023-09-04,Product D,Home & Kitchen,East,167,43.16
+2023-04-02,Product B,Clothing,North,377,91.49
+2023-08-23,Product A,Home & Kitchen,West,130,35.67
+2023-03-24,Product B,Electronics,South,368,63.74
+2023-08-04,Product C,Home & Kitchen,North,222,42.07
+2023-08-28,Product A,Electronics,South,305,39.56
+2023-02-25,Product C,Clothing,West,482,53.59
+2023-12-31,Product C,Clothing,North,204,31.13
+2023-04-03,Product D,Home & Kitchen,North,97,26.12
+2023-11-10,Product D,Clothing,East,341,65.77
+2023-01-01,Product D,Sports,North,179,18.26
+2023-12-06,Product C,Clothing,South,358,103.64
+2023-03-31,Product C,Sports,North,377,108.46
+2023-06-14,Product B,Electronics,South,81,15.31
+2023-11-06,Product B,Home & Kitchen,South,339,81.92
+2023-07-26,Product C,Electronics,South,475,63.88
+2023-03-29,Product B,Home & Kitchen,West,340,74.68
+2023-01-10,Product A,Clothing,East,490,58.88
+2023-06-05,Product C,Sports,West,410,83.27
+2023-08-24,Product C,Electronics,West,52,8.45
+2023-08-06,Product D,Electronics,East,223,62.16

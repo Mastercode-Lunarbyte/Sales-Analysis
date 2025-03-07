@@ -34,6 +34,15 @@ The generated CSV file (`sales_data.csv`) can be loaded into **Power BI** for fu
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
+## 🚀 How to Contribute
+We welcome contributions! Follow these steps to get started:
+
+1. **Fork the repository** (Click the "Fork" button on GitHub).
+2. **Clone your forked repository**:
+   ```bash
+   git clone https://github.com/Mastercode-Lunarbyte/Sales-Analysis.git
+
+
 ## 👤 Author
 - **PejmanFrzn**  
   

@@ -32,7 +32,7 @@ A sample CSV file (`sales_data.csv`) is included in this repository for testing 
 The generated CSV file (`sales_data.csv`) can be loaded into **Power BI** for further analysis and dashboard creation.
 
 ## 📜 License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **Apache License**.
 
 ## 🚀 How to Contribute
 We welcome contributions! Follow these steps to get started:
